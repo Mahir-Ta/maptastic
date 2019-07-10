@@ -1,2 +1,2 @@
 # maptastic
-App for map cutomization
+App for map customization
